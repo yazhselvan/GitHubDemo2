@@ -1,4 +1,4 @@
-public void login(){
+public void GlobalLogin(){
 }
 public void homePage(){
 }
