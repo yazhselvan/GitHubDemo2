@@ -1,3 +1,4 @@
+public void LocalLogin(){
 public void GlobalLogin(){
 }
 public void homePage(){
